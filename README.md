@@ -10,3 +10,22 @@ The company wants to know:
 -> How well those variables describe the price of a car Based on various market surveys, the consulting firm has gathered a large dataset of different types of cars across the Americal market.  
 
 Bussiness Goal  Requirement : is to model the price of cars with the available independent variables. This will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels.
+
+<b>Findings</b>
+The below mentioned variables contribute to the car price:
+* curbweight
+* horsepower
+* enginelocation
+* companyname
+* low price and moderate price
+* carbodywagon
+
+<b>Recommendations</b>
+The importance of variables can be found using PCA as well as an extension which can help reach better results.
+
+<b>Privacy Statement</b>
+* No Client data or confidential data has been used. The data used for analysis is downloaded from open source repositories.
+* Non of the organizational server and credentials has been used during this project.
+* This is a non-monitorial project only for learning and assignment perspective.
+
+
