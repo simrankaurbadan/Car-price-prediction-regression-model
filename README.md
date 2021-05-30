@@ -11,7 +11,8 @@ The company wants to know:
 
 Bussiness Goal  Requirement : is to model the price of cars with the available independent variables. This will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels.
 
-<b>Findings</b>
+<b>Findings</b
+  
 The below mentioned variables contribute to the car price:
 * curbweight
 * horsepower
@@ -21,6 +22,7 @@ The below mentioned variables contribute to the car price:
 * carbodywagon
 
 <b>Recommendations</b>
+
 The importance of variables can be found using PCA as well as an extension which can help reach better results.
 
 <b>Privacy Statement</b>
